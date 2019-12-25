@@ -7,11 +7,12 @@ name = "pypi"
 
 [packages]
 
-keras = "==2.0.8"
+keras = "*"
 scipy = "*"
 numpy = "*"
 sounddevice = "*"
 soundfile = "*"
+tensorflow = "*"
 plotly = "*"
 chart-studio = "*"
 
