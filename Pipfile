@@ -12,7 +12,7 @@ scipy = "*"
 numpy = "*"
 sounddevice = "*"
 soundfile = "*"
-tensorflow = "*"
+tensorflow = "==1.15.2"
 plotly = "*"
 chart-studio = "*"
 
